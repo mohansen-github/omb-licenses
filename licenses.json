@@ -1,5 +1,11 @@
 {
-  "issued": "2026-10-22T02:07:15Z",
-  "licenses": [],
-  "signature": "RcRP89h8qzbD8rcbErQH-XhU2hJ0_KJFliu_UJTt8MRTXlTYoINUvTYeBb_O1hg374xmb7Wmda9rfgT53QHpAA"
+  "issued": "2026-10-22T02:08:49Z",
+  "licenses": [
+    {
+      "name": "Morris Hansen",
+      "code": "OV2Q-HAGT-TSIC-KCMN",
+      "until": "2031-10-21"
+    }
+  ],
+  "signature": "tU-DLBkq3Xh6UJW7Q5s1rtSoKxuN2UlVxHOnSF-fkN70W6Gp3dorQ6vOUJJM3hKJodY4m6qqrnR3kGMX-EQBCQ"
 }
